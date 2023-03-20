@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*Antwa-sensei253 */
+/*Antwa-sensei253 
+ *  main - Prints the alphabet.
+ *
+ * Return: Always 0 (Success)
+*/
 int main(void)
 {
 	char c;

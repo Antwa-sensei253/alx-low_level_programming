@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*Antwa-sensei253 */
+/*Antwa-sensei253 
+ *   main - Prints the alphabet without q and e.
+ *
+ * Return: Always 0 (Success)
+*/
 int main(void)
 {
 	char c;

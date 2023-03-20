@@ -1,8 +1,6 @@
 #include <stdio.h>
 
-/**
- * Antw-sensei253
- * */
+/* Antw-sensei253 */
 int main(void)
 {
 	char c;

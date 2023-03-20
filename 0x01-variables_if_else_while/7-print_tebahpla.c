@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-/*Antwa-sensei253
-  */
+/*Antwa-sensei253*/
 int main(void)
 {
 	char c;

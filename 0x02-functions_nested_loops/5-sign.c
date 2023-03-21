@@ -2,11 +2,11 @@
 
 
  /**
- * print_sign - Prints the sign of a number
+ * This function determines the sign of a number and prints it to the console.
  *
- * @n: The number to be checked
+ * @n: The number whose sign is to be determined.
  *
- * Return: 1 if n is positive, 0 if n is zero, -1 if n is negative
+ * Returns 1 if the number is positive, 0 if the number is zero, and -1 if the number is negative.
  */
 	int print_sign(int n)
 	{
